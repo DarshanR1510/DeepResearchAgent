@@ -1,0 +1,11 @@
+.vscode/
+.history/
+.idea/
+*.code-workspace
+*.tmp
+*.log
+*.bak
+*.swp
+*.DS_Store
+*.env
+*token.json
