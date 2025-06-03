@@ -31,4 +31,7 @@
 <h3>📜 License</h3>
 <p>This project is licensed under the <a href="https://opensource.org/license/mit/">MIT License</a>. Feel free to use, modify, and distribute it as per the terms of the license.</p>
 <h3>📫 Contact</h3>
-<p>If you have any questions, suggestions, or want to hire Darshan (darshanramani1@gmail.com), please feel free to reach out via Email or LinkedIn. (https://www.linkedin.com/in/darshanramani/)</p>
+<p>If you have any questions, suggestions, or <strong>want to hire Darshan</strong>, please feel free to reach out via Email or LinkedIn.</p>
+<h3>🔗 Links</h3>
+<p>Email <a href="mailto:darshanramani1@gmail.com">darshanramani1@gmail.com</a></p>
+<p>LinkedIn <a href="https://www.linkedin.com/in/darshanramani/">https://www.linkedin.com/in/darshanramani/</a></p>
